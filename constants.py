@@ -1,4 +1,4 @@
-token = "1246903350:AAEU9XSi7GIoNVsXQjMe6UTSzzpjSIRP7Ls"
+token = "1246903350:AAEU9XSi7GIoNVsXQjMe6UTSzzpjSIR****"
 
 
 weather_list = {"новосибирск": "https://yandex.ru/pogoda/novosibirsk", "екатеринбург": "https://yandex.ru/pogoda/yekaterinburg",
